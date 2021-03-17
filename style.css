@@ -55,3 +55,6 @@ li {
 .filtered {
     display : none !important;
 }
+.delete:hover {
+    cursor: pointer;
+}
